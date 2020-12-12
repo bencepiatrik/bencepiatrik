@@ -13,7 +13,7 @@
 
 <div>
 <img align="left"  background="#fff" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
- | historynerd.store@gmail.com
+ <p>| historynerd.store@gmail.com</p>
 </div>
 
 <br />
