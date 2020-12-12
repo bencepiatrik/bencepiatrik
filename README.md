@@ -11,14 +11,14 @@
 
 ### Stay in tauch:
 
-<img align="left" margin-top="10px" background="#fff" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
-|   historynerd.store@gmail.com
+<img align="left" margin-top="110px" background="#fff" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
+| historynerd.store@gmail.com 
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -34,9 +34,10 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bencepiatrik&show_icons=true&hide_border=true" />
 
 </details>
+
 
