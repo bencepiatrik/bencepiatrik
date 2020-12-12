@@ -12,7 +12,7 @@
 ### Stay in tauch:
 
 <div>
-<img align="left"  background="#fff" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
+<img align="left"   alt="" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
  <p>| historynerd.store@gmail.com</p>
 </div>
 
