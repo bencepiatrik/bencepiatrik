@@ -12,7 +12,7 @@
 ### Stay in tauch:
 
 <img align="left" margin-top="10px" background="#fff" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
-|  <h1> historynerd.store@gmail.com </h1>
+|  <h5> historynerd.store@gmail.com </h5>
 <br />
 
 ### Languages and Tools:
@@ -38,6 +38,4 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bencepiatrik&show_icons=true&hide_border=true" />
 
 </details>
-
-
 
