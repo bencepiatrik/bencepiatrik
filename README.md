@@ -6,7 +6,7 @@
 - 📖 I started learning front-end in march 2020, since then I made a great progress
 - 🔭 I'm looking out to project ideas, so if you have some, please hit me up
 - 👯 I'm looking to collaborate with other content creators
-- 🏆 2021 Goals: learning React.js, and learning back-end Languages
+- 🏆 2021 Goals: learning React.js and some back-end languages
 
 
 ### Stay in tauch:
