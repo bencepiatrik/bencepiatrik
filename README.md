@@ -9,9 +9,9 @@
 - 🏆 2021 Goals: learning React.js, and learning back-end Languages
 
 
-### Connect me at:
+### Stay in tauch:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][youtube]
 
 <br />
 
@@ -27,8 +27,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+<br />
 
 ---
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -36,4 +38,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bencepiatrik&show_icons=true&hide_border=true" />
 
 </details>
-
