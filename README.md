@@ -36,10 +36,9 @@
 
 
 
-<summary> My GitHub Stats</summary>
+<summary><h2> My GitHub Stats </h2></summary>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bencepiatrik&show_icons=true&hide_border=true" />
-
 
 
 
