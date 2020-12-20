@@ -1,7 +1,7 @@
 ### Hi, I'm Ben 👋
 
  
-## I'm a Student, who is currently learning front-end development !
+## I'm a student, who is currently learning front-end development !
 
 - 📖 I started learning front-end in march 2020, since then I made a great progress
 - 🔭 I'm looking out for project ideas, so if you have some, please hit me up
