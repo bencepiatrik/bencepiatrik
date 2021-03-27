@@ -34,7 +34,9 @@
 
 ---
 
+## If you are about to see some of my projects here, the loading of the sites might take a couple of seconds
 
+---
 
 <summary><h3> My GitHub Stats: </h3></summary>
 
