@@ -9,14 +9,12 @@
 - 🏆 2021 Goals: learning React.js and some back-end languages
 
 
-### Stay in tauch:
+### Contact:
 
 <div>
 <img align="left"   alt="" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
  <p>| ben.piatrik@gmail.com</p>
 </div>
-
-<br />
 
 ### Languages and Tools:
 
