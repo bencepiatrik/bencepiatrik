@@ -33,13 +33,3 @@
 <br />
 
 ---
-
-## If you are about to see some of my projects here, the loading of the sites might take a couple of seconds
-
----
-
-<summary><h3> My GitHub Stats: </h3></summary>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bencepiatrik&show_icons=true&hide_border=true" />
-
-
