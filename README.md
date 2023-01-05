@@ -1,4 +1,4 @@
-### Hi, I'm Ben 👋
+### Hi, I'm Bence 👋
 
  
 ## I'm a student, who is currently learning front-end development !
@@ -6,7 +6,7 @@
 - 📖 I started learning front-end in march 2020, since then I made a great progress
 - 🔭 I'm looking out for project ideas, so if you have some, please hit me up
 - 👯 I'm also looking to collaborate with other content creators
-- 🏆 2021 Goals: learning React.js and some back-end languages
+- 🏆 For the next couple of months I will be learning React.js to create a couple of my ideas
 
 
 ### Contact:
