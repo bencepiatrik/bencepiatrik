@@ -3,10 +3,10 @@
  
 ## I'm a student, who is currently learning front-end development !
 
-- 📖 I started learning front-end in march 2020, since then I made a great progress
+- 📖 I started learning front-end in 2020, since then I made a great progress
 - 🔭 I'm looking out for project ideas, so if you have some, please hit me up
-- 👯 I'm also looking to collaborate with other content creators
-- 🏆 For the next couple of months I will be learning React.js to create a couple of my ideas
+- 👯 Currently I'm updating my portfolio site
+- 🏆 For the next couple of months I will be learning React.js to create a couple of smaller projects
 
 
 ### Contact:
