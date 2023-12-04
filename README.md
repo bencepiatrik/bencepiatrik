@@ -1,13 +1,19 @@
 ### Hi, I'm Bence 👋
 
  
-## I'm a student, who is currently learning front-end development !
+### I'm a student, who has just began his career in software development!
 
-- 📖 I started learning front-end in 2020, since then I made a great progress
-- 🔭 I'm looking out for project ideas, so if you have some, please hit me up
-- 👯 Currently I'm updating my portfolio site
-- 🏆 For the next couple of months I will be learning React.js to create a couple of smaller projects
+📘 Started my journey in 2020 by learning some basic frontend development.
 
+🚀 I'm eagerly seeking project ideas for my next coding projects. If you have any suggestions or need some help on your project, then you should definetly contact me!
+
+💻 Currently, in my free time, I'm revamping my portfolio site, check it out [here](https://bencepiatrik.github.io/portfolio/)!
+
+🌐 Learning React.js for the next few months.
+
+🎓 Student by day, coder by night.
+
+🔗 Connect with me for collaborations, coding discussions, or just to share cat memes!
 
 ### Contact:
 
@@ -16,7 +22,7 @@
  <p>| ben.piatrik@gmail.com</p>
 </div>
 
-### Languages and Tools:
+### Techstack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
